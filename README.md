@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezanx" alt="sezanx" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity & developing my skill on programming.**
+ #### 🌱 I’m currently learning :
+ Cybersecurity & developing my skill on programming.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sezanx&show_icons=true&locale=en" alt="sezanx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sezanx&" alt="sezanx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sezanx&show_icons=true&locale=en&layout=compact" alt="sezanx" /></p>
 
 <!--
 **sezanX/sezanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
