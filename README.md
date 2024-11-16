@@ -1,5 +1,5 @@
 <!-- <h2 align="center">  السَّلاَمُ عَلَيْكُمْ  </h2> -->
-<h1 align="center">Hi 👋, I'm SEZAN! <img height="120" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/></h1>
+<h1 align="center">Hi 👋, I'm SEZAN! <img height="80" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" /> </p>
 
