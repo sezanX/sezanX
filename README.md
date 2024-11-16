@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sezanx&show_icons=true&locale=en" alt="sezanx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sezanx&" alt="sezanx" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sezanx&show_icons=true&locale=en&layout=compact" alt="sezanx" width="45%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sezanx&show_icons=true&locale=en&layout=compact" alt="sezanx" width="80%" /></p>
 
 <!--
 **sezanX/sezanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
