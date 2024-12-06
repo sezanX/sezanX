@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezanx" alt="sezanx" /></a> </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sezanX/sezanX/output/github-snake-dark.svg" />
@@ -13,6 +11,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/sezanX/sezanX/output/github-snake.svg" />
 </picture>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
  #### 🌱 I’m currently learning :
