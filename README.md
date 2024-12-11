@@ -23,7 +23,7 @@ I'm a passionate web developer and computer science student at Khulna Khan Bahad
 </div>
 
 <div align="center">
-<h3>Languages and Tools:</h3></div>
+<h3>Languages and Tools</h3></div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
