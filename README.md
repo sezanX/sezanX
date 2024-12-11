@@ -19,7 +19,7 @@
 -->
 <h4 align="center">About Me</h4>
 
-I'm a passionate web developer and computer science student at Khwaja Khairuddin Bahauddin Ansari University (KKBAU). My journey in the world of technology is driven by curiosity and a desire to create innovative solutions
+I'm a passionate web developer and computer science student at Khulna Khan Bahadur Ahsanullah University(KKBAU). My journey in the world of technology is driven by curiosity and a desire to create innovative solutions
 
 ###
 <div align="center">
