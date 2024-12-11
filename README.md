@@ -12,11 +12,14 @@
 </picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--
 <div align="center">
  <h4>🌱 I’m currently learning : </h4></div>
  Web Development,AI Technology & developing my skill on programming.
+-->
+<h4 align="center">About Me</>
 
+I'm a passionate web developer and computer science student at Khwaja Khairuddin Bahauddin Ansari University (KKBAU). My journey in the world of technology is driven by curiosity and a desire to create innovative solutions
 ###
 <div align="center">
 <h4>Languages and Tools:</h4></div>
