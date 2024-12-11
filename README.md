@@ -18,9 +18,9 @@
  Web Development,AI Technology & developing my skill on programming.
 -->
 <h3 align="center">About Me</h3>
-
+<div align="center">
 I'm a passionate web developer and computer science student at Khulna Khan Bahadur Ahsanullah University(KKBAU). My journey in the world of technology is driven by curiosity and a desire to create innovative solutions
-
+</div>
 ###
 <div align="center">
 <h3>Languages and Tools:</h3></div>
@@ -162,9 +162,9 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 -->
-
+<!--
 <h4 align="center">Activity Graph:</h4>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sezanx&theme=2077"/>
 
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
