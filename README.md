@@ -45,6 +45,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
+<div align="center">
+  <h2>Connect With Me 🤝</h2>
+  <div>
+    <a href="https://www.youtube.com/c/SezanMahmood" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/sezanmahmood" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/sezanx" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:contact@sezanmahmood.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
+  
+  <br />
+  
+  <p>
+    <b>🌐 Visit my website: <a href="https://sezanmahmood.com">sezanmahmood.com</a></b>
+  </p>
+</div>
+
+
+<!--
 ###
 <h4 align="left">Connect with me:</h4>
 
@@ -58,7 +87,7 @@
 </div>
 
 ###
-
+-->
 
 <!--
 
