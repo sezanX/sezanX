@@ -13,12 +13,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<div align="center">
  #### 🌱 I’m currently learning :
  Web Development,AI Technology & developing my skill on programming.
-
+</div>
 ###
-<h4 align="left">Languages and Tools:</h4>
+<div align="center">
+<h4 align="left">Languages and Tools:</h4></div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -46,7 +47,7 @@
 </div>
 
 <div align="center">
-  <h2>Connect With Me 🤝</h2>
+  <h4>Connect With Me 🤝</h4>
   <div>
     <a href="https://www.youtube.com/c/SezanMahmood" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -67,8 +68,11 @@
   
   <br />
   
+<!--
   <p>
+
     <b>🌐 Visit my website: <a href="https://sezanmahmood.com">sezanmahmood.com</a></b>
+-->
   </p>
 </div>
 
