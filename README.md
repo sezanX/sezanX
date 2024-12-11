@@ -17,9 +17,10 @@
  <h4>🌱 I’m currently learning : </h4></div>
  Web Development,AI Technology & developing my skill on programming.
 -->
-<h4 align="center">About Me</>
+<h4 align="center">About Me</h4>
 
 I'm a passionate web developer and computer science student at Khwaja Khairuddin Bahauddin Ansari University (KKBAU). My journey in the world of technology is driven by curiosity and a desire to create innovative solutions
+
 ###
 <div align="center">
 <h4>Languages and Tools:</h4></div>
