@@ -17,13 +17,13 @@
  <h4>🌱 I’m currently learning : </h4></div>
  Web Development,AI Technology & developing my skill on programming.
 -->
-<h4 align="center">About Me</h4>
+<h3 align="center">About Me</h3>
 
 I'm a passionate web developer and computer science student at Khulna Khan Bahadur Ahsanullah University(KKBAU). My journey in the world of technology is driven by curiosity and a desire to create innovative solutions
 
 ###
 <div align="center">
-<h4>Languages and Tools:</h4></div>
+<h3>Languages and Tools:</h3></div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -51,7 +51,7 @@ I'm a passionate web developer and computer science student at Khulna Khan Bahad
 </div>
 
 <div align="center">
-  <h4>Connect With Me 🤝</h4>
+  <h3>Connect With Me 🤝</h3>
   <div>
     <a href="https://www.youtube.com/c/SezanMahmood" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -116,10 +116,10 @@ I'm a passionate web developer and computer science student at Khulna Khan Bahad
   
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sezanx&show_icons=true&locale=en" alt="sezanx's github stats"/>
-  
+  <br>
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezanx&" alt="sezanx's streak stats"/>
-
+<br>
  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sezanx&show_icons=true&locale=en&layout=compact" alt="sezanx's most used languages"/> 
 
