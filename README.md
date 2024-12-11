@@ -162,7 +162,8 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h4 align="center">Activity Graph:</h4>
+
+<h4 align="center">Activity Graph:</h4>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sezanx&theme=2077"/>
 
 
