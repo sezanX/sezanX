@@ -18,7 +18,7 @@
  Web Development,AI Technology & developing my skill on programming.
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -46,6 +46,7 @@
 </div>
 
 ###
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <a href="https://www.youtube.com/c/SezanMahmood" target="_blank">
