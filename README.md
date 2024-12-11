@@ -21,7 +21,7 @@
 <div align="center">
 I'm a passionate web developer and computer science student at Khulna Khan Bahadur Ahsanullah University(KKBAU). My journey in the world of technology is driven by curiosity and a desire to create innovative solutions
 </div>
-###
+
 <div align="center">
 <h3>Languages and Tools:</h3></div>
 <div align="center">
