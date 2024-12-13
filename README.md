@@ -119,7 +119,9 @@ I'm a passionate web developer and computer science student at Khulna Khan Bahad
   <br>
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezanx" alt="sezanx's streak stats"/>
-
+<br>
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=sezanX" alt="sezanX's streak stats"/>
 <br>
  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sezanx&show_icons=true&locale=en&layout=compact" alt="sezanx's most used languages"/> 
