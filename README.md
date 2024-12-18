@@ -134,6 +134,10 @@ I'm a passionate web developer and computer science student at Khulna Khan Bahad
  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sezanx&show_icons=true&locale=en&layout=compact" alt="sezanx's most used languages"/> 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezanx&layout=compact&theme=default&hide_border=true" alt="Most Used Languages by Sezanx">
+</a>
+
 </div>
 
 
