@@ -4,8 +4,7 @@
 <h1 align="center">Hi 👋, I'm SEZAN! <img height="80" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/></h1>
 -->
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Normal&size=28&pause=1000&color=BB0000&width=290&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+SEZAN!" alt="Typing SVG" /></a>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Normal&size=28&pause=1000&color=BB0000&width=290&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+SEZAN!" alt="Typing SVG" />
 <img height="80" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" /> </p>
