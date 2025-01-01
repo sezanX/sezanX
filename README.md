@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm SEZAN! <img height="80" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/></h1>
 -->
 
-
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=BB0000&width=260&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+SEZAN!" alt="Sezan Mahmood"/>
 
  
