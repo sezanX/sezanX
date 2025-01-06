@@ -137,7 +137,7 @@ I'm a passionate web developer and computer science student at Khulna Khan Bahad
  <a>
   <img src="https://streak-stats.demolab.com/?user=sezanx&theme=default&hide_border=true" alt="GitHub Streak Stats for Sezanx">
 </a>
- 
+
 <!-- GitHub Streak Stats 
 <img src="https://streak-stats.demolab.com?user=sezanX" alt="sezanX's streak stats"/>
 <br>-->
