@@ -7,18 +7,13 @@
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=BB0000&width=260&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+SEZAN!" alt="Sezan Mahmood"/>
 
-
-![SavePalestine](https://raw.githubusercontent.com /OneDroid/.github/refs/heads/main/images/badge /save-palestine.svg)
-
- 
-
 <!--
 <img height="80" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/> 
 -->
 </div>
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" />
 
-![SavePalestine](https://raw.githubusercontent.com /OneDroid/.github/refs/heads/main/images/badge /save-palestine.svg) </div>
+<img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg"> </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezanx" alt="sezanx" /></a> </p>
 
