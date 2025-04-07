@@ -10,7 +10,7 @@
 <!--
 <img height="80" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/> 
 -->
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 50px;">
   <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" />
   <img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg" alt="Save Palestine" />
 </div>
