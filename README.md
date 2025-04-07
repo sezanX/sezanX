@@ -10,10 +10,11 @@
 <!--
 <img height="80" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/> 
 -->
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" />
+  <img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg" alt="Save Palestine" />
 </div>
-<div align=""> <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" />
 
-<img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg"> </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezanx" alt="sezanx" /></a> </p>
 
