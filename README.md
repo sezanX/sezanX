@@ -11,9 +11,9 @@
 <img height="80" src="https://media.tenor.com/sCfC2XDlVPYAAAAi/wlcm.gif"/> 
 -->
 </div>
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sezanx&label=Profile%20views&color=0e75b6&style=flat" alt="sezanx" />
 
-<img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg"> </div>
+<img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezanx" alt="sezanx" /></a> </p>
 
