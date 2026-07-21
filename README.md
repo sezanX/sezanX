@@ -137,23 +137,36 @@ I'm a passionate web developer and computer science student at Khulna Khan Bahad
 
 
 <div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.shion.dev/api?username=sezanx&show_icons=true&locale=en" alt="sezanx's github stats"/>
+<br>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/sezanx">
+  <img src="https://streak-stats.demolab.com?user=sezanx" alt="GitHub Streak Stats for sezanx"/>
+</a>
+<br>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=sezanx&show_icons=true&locale=en&layout=compact" alt="sezanx's most used languages"/>
   
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats 
   <img src="https://github-readme-stats.vercel.app/api?username=sezanx&show_icons=true&locale=en" alt="sezanx's github stats"/>
   <br>
 
-  <!-- GitHub Streak Stats -->
+   GitHub Streak Stats 
 
  <a>
   <img src="https://streak-stats.demolab.com?user=sezanX" alt="GitHub Streak Stats for Sezanx">
 </a>
   <br>
-<!-- GitHub Streak Stats 
+GitHub Streak Stats 
 <img src="https://streak-stats.demolab.com?user=sezanX" alt="sezanX's streak stats"/>
-<br>-->
- <!-- Most Used Languages -->
+<br>
+  Most Used Languages 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sezanx&show_icons=true&locale=en&layout=compact" alt="sezanx's most used languages"/> 
-
+-->
 
 </div>
 
